@@ -1,3 +1,3 @@
-module github.com/MoeinGhbh/golang-SDK.git
+module github.com/MoeinGhbh/golang-SDK
 
 go 1.15
